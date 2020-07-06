@@ -48,13 +48,14 @@ Publications
 
 Presentations
 -------------
-- **[Technical Artist Bootcamp: Procedural Islands of 'Dauntless'](http://schedule.gdconf.com/session/technical-artist-bootcamp-procedural-islands-of-dauntless/856044), [GDC Vault Video](https://www.gdcvault.com/play/1025256/Technical-Artist-Bootcamp-Procedural-Islands), Game Developers Conference 2018, Michael Trottier, Mykola Konyk**
+- **[Technical Artist Bootcamp: Procedural Islands of 'Dauntless'](https://www.gdcvault.com/play/1025541/Technical-Artist-Bootcamp-Procedural-Islands), [GDC 2018 Youtube Video](https://www.youtube.com/watch?v=krxmNpqKxtI), Game Developers Conference 2018, Michael Trottier, Mykola Konyk**
 
 Work Experience
 ---------------
 - **[Phoenix Labs](http://www.phxlabs.ca/), Vancouver, BC, Canada, Senior Programmer, May 2016 - Present.**
     - Work on [Dauntless](https://playdauntless.com/)
         - Unreal Engine 4, Houdini / Houdini Engine / Houdini HDK, work on procedural generation tools
+            - [GDC 2018 Youtube Video](https://www.youtube.com/watch?v=krxmNpqKxtI)
             - [GDC Vault Video and PDF presentation](https://www.gdcvault.com/play/1025541/Technical-Artist-Bootcamp-Procedural-Islands)
         - Unreal editor tools (landscape, lod, painting, actor generation)
         - Work on various engine and gameplay systems
